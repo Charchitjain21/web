@@ -42,7 +42,7 @@ body {
     cursor: pointer;
 }
 
-.hero-section {
+.edit-section {
     background: url('bdc.PNG') no-repeat center center/cover;
     height: 100vh;
     color: #fff;
@@ -53,7 +53,7 @@ body {
     text-align: center;
 }
 
-.hero-content h1 {
+.edit-content h1 {
     font-size: 3rem;
     margin-bottom: 0.5rem;
 }
